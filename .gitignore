@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore a specific file
+data/.ipynb_checkpoints/flashcards-checkpoint.json
+ui/.ipynb_checkpoints/home-checkpoint.py
+ui/.ipynb_checkpoints/review-checkpoint.py
